@@ -91,10 +91,9 @@ section {
 }
 
 .hlavicka {
-    background-image: url("src/main/resources/static/pictures/kometa.JPG");
+    /*noinspection CssUnknownTarget*/
     padding: 150px 30px;
-    background-repeat: no-repeat;
-    background-position: center;
+    background: url("pictures/mlecna_draha.JPG") no-repeat center;
     background-size: cover;
 }
 
