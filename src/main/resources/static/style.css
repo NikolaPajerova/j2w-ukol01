@@ -60,7 +60,7 @@ a {
     border-radius: 10px;
 }
 
-.foto-pruvodce {
+.foto-studium {
     width: 350px;
     border-radius: 0 50px 50px 50px;
     float: right;
@@ -84,10 +84,6 @@ td, tr {
     padding: 10px 0;
 }
 
-.cena {
-    text-align: right;
-    padding-left: 50px;
-}
 
 section {
     padding: 50px 15%;
@@ -95,7 +91,7 @@ section {
 }
 
 .hlavicka {
-    background-image: url(lekce02/obrazky/hlavicka.jpg);
+    background-image: url("src/main/resources/static/pictures/kometa.JPG");
     padding: 150px 30px;
     background-repeat: no-repeat;
     background-position: center;
